@@ -55,7 +55,7 @@
                                     </fragment>
                                 </attributedString>
                                 <connections>
-                                    <segue destination="PF8-bw-oip" kind="show" id="Qxx-rX-KCI"/>
+                                    <segue destination="PF8-bw-oip" kind="show" identifier="openColor" id="Qxx-rX-KCI"/>
                                 </connections>
                             </button>
                         </subviews>
